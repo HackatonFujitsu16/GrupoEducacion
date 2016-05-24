@@ -1,0 +1,3 @@
+#! /usr/bin/env python
+from lod4all import __version__
+print __version__
